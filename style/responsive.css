@@ -365,6 +365,9 @@
   .contact textarea {
     width: 100%;
   }
+  .footer__bottom{
+        font-size: 10px;
+    }
 }
 @media (max-width: 375px) {
   .container {
