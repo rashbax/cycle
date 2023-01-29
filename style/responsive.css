@@ -369,15 +369,13 @@
         font-size: 10px;
     }
 }
-@media (max-width:420px){
-.products{
-    .container{
-        max-width: 95%;
-    }
-    .product__list{
-        margin: 0;
-    }
-}
+@media (max-width: 420px) {
+  .products .container {
+    max-width: 95%;
+  }
+  .products .product__list {
+    margin: 0;
+  }
 }
 @media (max-width: 375px) {
   .container {
